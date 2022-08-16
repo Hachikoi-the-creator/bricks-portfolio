@@ -1,3 +1,8 @@
+## TODO
+- [ ] Copy the email form from prev portfolio
+- [ ] 
+
+
 ## Tricks
 ### Force dark theme
 - Create a new file iside pages
