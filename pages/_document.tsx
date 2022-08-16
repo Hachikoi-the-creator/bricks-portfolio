@@ -1,8 +1,3 @@
-## Tricks
-### Force dark theme
-- Create a new file iside pages
-- copy this
-```tsx
 import { Html, Head, Main, NextScript } from "next/document";
 
 export default function Document() {
@@ -16,4 +11,3 @@ export default function Document() {
     </Html>
   );
 }
-```
